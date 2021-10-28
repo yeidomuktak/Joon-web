@@ -1,0 +1,91 @@
+html {
+    background-color: whitesmoke;
+    width: 700px;
+    font-family: sans-serif;
+}
+.rest {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+    background-color: mintcream;
+    top: 0px;
+    left: 0px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border: 2px solid gray;
+    color:black;
+}
+
+.restaurants {
+    color:black;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    padding: 10px;
+    display: block;
+    height: 140px;
+}
+
+.brand {
+    position: relative;
+    top: -120px;
+    left: 130px;
+}
+
+.menus {
+    position: relative;
+    top: -130px;
+    left: 130px;
+}
+
+.reviews {
+    position: relative;
+    top: -135px;
+    left: 130px;
+}
+
+.min {
+    position: relative;
+    top: -140px;
+    left: 130px;
+}
+
+.order {
+    float: right;
+    position: relative;
+    top: -165px;
+}
+
+.menu {
+    color: black;
+    background-color: white;
+    border: 1px solid lightgray;
+    height: 180px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.food {
+    float: right;
+    height: 140px;
+    width: 140px;
+    position: relative;
+    top: -115px;
+    object-fit: cover;
+}
+
+.cover {
+    width: 684px;
+    margin-top: 10px;
+}
+
+.information {
+    color: black;
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin-top: 10px;
+}
